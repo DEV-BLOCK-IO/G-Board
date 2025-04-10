@@ -1,0 +1,6 @@
+board:
+  name: g_board_g070
+  full_name: G-Board-G070
+  vendor: db
+  socs:
+    - name: stm32g070xx
