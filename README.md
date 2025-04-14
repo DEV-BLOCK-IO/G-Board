@@ -25,21 +25,27 @@ The controller board features:
 
 - STM32G070CBT6 microcontroller  
 - 8 MHz crystal oscillator  
-- 32.xy kHz crystal (for RTC and low-power operation)  
+- 32.768 kHz crystal (for RTC and low-power operation)  
 - All GPIOs are routed through headers and made accessible via the G-Base
 
 ---
 
 ## Images
 
-Images of the boards are located in the `/Pictures` directory:
+Images of the boards are located in the `/Pictures` directory.
 
 ### G-Base
-- `G-Base_1_isometric.JPEG`  
-- `G-Base_1.JPEG`
+
+![G-Base Isometric](/Pictures/G-Base_1_isometric.JPEG)  
+*G-Base – Isometric View*
+
+![G-Base Top View](/Pictures/G-Base_1.JPEG)  
+*G-Base – Top View*
 
 ### G-Board
-- `G-Board_G070.JPEG`
+
+![G-Board G070](/Pictures/G-Board_G070.JPEG)  
+*G-Board-G070 – Controller Board*
 
 ---
 
