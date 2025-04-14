@@ -53,3 +53,10 @@ Images of the boards are located in the `/Pictures` directory.
 
 - The **BOOT0** and **RESET** signals are controlled via the G-Base for easier firmware uploading and debugging.
 - The PI filter ensures a clean analog voltage supply, especially useful when working with ADC inputs or analog sensors.
+
+## License
+
+This project is licensed under the terms of the MIT License.  
+Note: While this is a hardware project, the license applies to all design files, documentation, and source code provided in this repository.
+
+See [LICENSE](./LICENSE) for details.
