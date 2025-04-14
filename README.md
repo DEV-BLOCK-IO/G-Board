@@ -36,15 +36,15 @@ Images of the boards are located in the `/Pictures` directory.
 
 ### G-Base
 
-![G-Base Isometric](/Pictures/G-Base_1_isometric.JPEG)  
+![G-Base Isometric](pictures/G-Base_1_isometric.JPEG)  
 *G-Base – Isometric View*
 
-![G-Base Top View](/Pictures/G-Base_1.JPEG)  
+![G-Base Top View](pictures/G-Base_1.JPEG)  
 *G-Base – Top View*
 
 ### G-Board
 
-![G-Board G070](/Pictures/G-Board_G070.JPEG)  
+![G-Board G070](pictures/G-Board_G070.JPEG)  
 *G-Board-G070 – Controller Board*
 
 ---
